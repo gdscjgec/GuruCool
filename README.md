@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gdscjgec">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">Project Name</h3>
